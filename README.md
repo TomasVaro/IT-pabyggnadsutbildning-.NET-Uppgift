@@ -1,4 +1,4 @@
-# IT-påbyggnadsutbildning-.NET-Uppgift
+# IT-påbyggnadsutbildning .NET - Uppgift
 16 tasks to solve.
 
 Programmering Förberedande kurs:
