@@ -1,5 +1,4 @@
 # IT-påbyggnadsutbildning .NET - Uppgift
-16 tasks to solve.
 
 Programmering Förberedande kurs:
 Skapa ett enklare program med nedanstående funktioner. Förslagsvis i ett konsolprojekt i Visual Studio.
