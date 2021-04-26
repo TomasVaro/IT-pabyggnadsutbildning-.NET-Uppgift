@@ -1,7 +1,6 @@
 # IT-påbyggnadsutbildning .NET - Uppgift
 
-## Programmering Förberedande kurs:
-
+## Programmering Förberedande kurs
 Skapa ett enklare program med nedanstående funktioner. Förslagsvis i ett konsolprojekt i Visual Studio.
 Programmet ska bestå av ett menysystem där du med hjälp av inmatning ska kunna välja vilken funktionalitet som ska köras. Programmet ska hållas igång tills du väljer alternativet för att stänga ner det (förslagsvis med valet 0 i menyn).
 Jag vill ha dessa funktioner:
